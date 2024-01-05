@@ -8,9 +8,9 @@ As a Student of Computer Science and a lifelong learner in the ever-evolving wor
 
 * 🌍  I'm based in Delhi, India
 * ✉️  You can contact me at [ayushsaxena2298@gmail.com](mailto:ayushsaxena2298@gmail.com)
-* 🧠  I'm learning JavaScript
-* 🤝  I'm open to collaborating on web dev projects
-* ⚡  I am Spiderman
+* 🧠  I'm currently learning JavaScript
+* 🤝  I'm open to collaborating on fullstack web dev projects
+* ⚡  I am Spiderman who doesn't know how to make spider-webs :(
 
 <a href="https://www.github.com/Ayushh-10" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Ayushh-10?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/brokennbadd" target="_blank" rel="noreferrer"><img
