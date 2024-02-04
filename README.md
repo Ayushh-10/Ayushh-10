@@ -7,7 +7,7 @@ FullStack Web developer and Programmer
 As a Student of Computer Science and a lifelong learner in the ever-evolving world of technology, I thrive on the thrill of problem-solving and the art of turning complex challenges into elegant, scalable solutions. My journey in the realms of Web development and Computer Programming has been an exhilarating exploration, each project a story of growth and innovation.
 
 * 🌍  I'm based in Delhi, India
-* ✉️  You can contact me at [ayushsaxena2298@gmail.com](mailto:ayushh.code@gmail.com)
+* ✉️  You can contact me at [ayushh.code@gmail.com](mailto:ayushh.code@gmail.com)
 * 🧠  I'm currently learning JavaScript
 * 🤝  I'm open to collaborating on fullstack web dev projects
 * ⚡  I am Spiderman who doesn't know how to make spider-webs :(
